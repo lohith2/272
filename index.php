@@ -77,7 +77,7 @@ body {font-size:16px;}
   <div class="w3-container" id="news" style="margin-top:75px">
     <h1 class="w3-xxxlarge w3-text-red"><b>Contact</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round"></div>
-    <?php echo file_get_contents('pages/location.txt'); ?>
+    <?php echo file_get_contents('location.txt'); ?>
   </div>
 
 </div>
